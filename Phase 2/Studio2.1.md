@@ -12,5 +12,5 @@
 
 **Visual Prompt:**  
 Create a watercolor painting of a quiet street scene at sunset with one person walking under streetlights. Use soft brushes, water, and light colors to create smooth blending and gentle gradients. The artwork should have soft lines, simple shapes, and a calm atmosphere. Focus on showing movement through the walking figure and unity through the overall composition. The colors should look natural and slightly faded, with a peaceful and quiet mood.
-![Prompt A Image](promptA_image.jpg)
+![Prompt A Image](promptA_image.jpg.png)
 
